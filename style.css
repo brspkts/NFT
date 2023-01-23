@@ -38,7 +38,7 @@ border-radius: 15px;
 }
 
 .equil-before{
-    background-image: url(./images/image-equilibrium.jpg);
+    background-image: url(images/image-equilibrium.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -55,7 +55,7 @@ border-radius: 15px;
     background-image: none;
 }
 .equil-after:active{
-    background-image: url(./images/icon-view.svg);
+    background-image: url(images/icon-view.svg);
     background-repeat: no-repeat;
     background-color: hsl(178, 100%, 50%);
     background-position: 50% 50%;
